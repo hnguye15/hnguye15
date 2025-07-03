@@ -15,7 +15,7 @@ I also worked as a programmer for a small group of inspiring students who were l
 ## What we did as Influx Games
 
 ### IBO - The game
-We were working on a pixel art 2D platformer where you play as IBO. He is a robot recently awakened from his long slumber after a mysterious apocalypse that happened centuries ago. He was programmed to restore humanity by retrieving relics of the past to fabricate a species that could resemble humans of the past to carry on humanity. But what lies beyond the gate?
+We were working on a pixel art 2D platformer where you play as IBO. He is a robot recently awakened from his long slumber after a mysterious apocalypse that happened centuries ago. He was programmed to restore humanity by retrieving relics of the past to fabricate a species that could resemble humans to carry on the legacy. But what lies beyond the gate?
 
 Most of our communcations were through our private Discord server.
 
