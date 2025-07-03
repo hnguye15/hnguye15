@@ -8,9 +8,9 @@ I also worked as a programmer for a small group of inspiring students who were l
 * Lead writer: Thomas Tam
 * Writer: Garrett MacLaughlin
 * Lead artist: Sunnyteddy (she preferred not to reveal her identity)
-* Artist: Esther Lee & Brilliant Nguyen 
+* Artist: Esther Lee, Brilliant Nguyen & Pippa
 * Lead Programmer: Brilliant Nguyen (@YourFrostyFriend)
-* Programmer: Ky Nguyen (@hnguye15)
+* Programmer: Daphne Dairo-Singerr, Isaac Lee & Ky Nguyen (@hnguye15)
 
 ## What we did as Influx Games
 
