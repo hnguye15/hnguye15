@@ -8,7 +8,7 @@ I also worked as a programmer for a small group of inspiring students who were l
 * Lead writer: Thomas Tam
 * Writer: Garrett MacLaughlin
 * Lead artist: Sunnyteddy (she preferred not to reveal her identity)
-* Artist: Esther Lee, Brilliant Nguyen & Pippa
+* Artist: Esther Lee, Brilliant Nguyen & Pippa Painter
 * Lead Programmer: Brilliant Nguyen (@YourFrostyFriend)
 * Programmer: Daphne Dairo-Singerr, Isaac Lee & Ky Nguyen (@hnguye15)
 
