@@ -17,7 +17,7 @@ I also worked as a programmer for a small group of inspiring students who were l
 ### IBO - The game
 We were working on a pixel art 2D platformer where you play as IBO. He is a robot recently awakened from his long slumber after a mysterious apocalypse that happened centuries ago. He was programmed to restore humanity by retrieving relics of the past to fabricate a species that could resemble humans to carry on the legacy. But what lies beyond the gate?
 
-Our game files are located in a private repository from our Azure DevOps project since it is still WIP!
+Our game files are located in a private repository from our Azure DevOps project since it is still WIP. Our progress was originally made in Unreal Engine 5, but we are planning to migrate the game to GoDot!
 
 ### GMTK - Game Jam 2024
 We participated in GMTK Game Jam of Summer 2024 where we only had 48 hours to create a video game! It was a short in time, yet long in effort journey as we were working tirelessly throughout the day and even throughout the night with very little sleep to try to complete our game called License to Build. It is a physics-based pixel art 2D platformer where you play as a construction worker who has to go through the challenges of each level using several tools and a physics gun that could scale things bigger or smaller.
