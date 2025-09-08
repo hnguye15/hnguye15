@@ -28,7 +28,7 @@ Link to the repository: https://github.com/YourFrostyFriend/GMTK_GameJam_2024
 
 ### GMTK - Game Jam 2025
 
-Our second time participating in GMTK Game Jame during Summer 2025! Just like last time, we had only 96 hours to create a video game based on the provided theme from the announcers. This year's theme was "Loop". This time, our project lead and programming lead were like: "Why not just make a fun little horror game?". Then we agreed on it and finally put out a game called *Dysthymia*. It's a pixel-art 2D-platformer story-driven horror game about deep and lasting depression that manifests as a loop of dreams. We very much enjoyed developing the game, and thanks to a combination of our experience from the last game and our very talented artists, we were able to finish all the artworks more than 12 hours before the game was due and submitted the game 4 hours before the deadline!
+Our second time participating in GMTK Game Jame during Summer 2025! Just like last time, we had only 96 hours to create a video game based on the provided theme from the announcers. This year's theme was "Loop". This time, our project lead and programming lead were like: "Why not just make a fun little horror game?". Then we agreed on it and finally put out a game called *Dysthymia*. It's a pixel-art 2D-platformer story-driven horror game about a deep and lasting depression that manifests as a loop of dreams. We very much enjoyed developing the game, and thanks to a combination of our experience from the last game and our very talented artists, we were able to finish all the artworks more than 12 hours before the game was due and submitted the game 4 hours before the deadline!
 
 Link to the game: https://thomasandfriends.itch.io/dysthymia
 
