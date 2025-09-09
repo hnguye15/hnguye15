@@ -20,7 +20,7 @@ We were working on a pixel art 2D platformer where you play as IBO. He is a robo
 Our game files are located in a private repository from our Azure DevOps project since it is still WIP. Our progress was originally made in Unreal Engine 5, but we are planning to migrate the game to GoDot!
 
 ### GMTK - Game Jam 2024
-We participated in GMTK Game Jam of Summer 2024 where we only had 96 hours to create a video game! It was a short in time, yet long in effort journey as we were working tirelessly throughout the day and even throughout the night with very little sleep to try to complete our game called *License to Build*, which was based on the provided theme "Scale". It is a physics-based pixel art 2D platformer where you play as a construction worker who has to go through the challenges of each level using several tools and a physics gun that could scale things bigger or smaller.
+We participated in GMTK Game Jam of Summer 2024 where we only had 96 hours to create a video game! It was a short in time, yet long in effort journey as we were working tirelessly throughout the day and even throughout the night with very little sleep to try to complete our game called *License to Build*, which was based on the provided theme *Built to Scale*. It is a physics-based pixel art 2D platformer where you play as a construction worker who has to go through the challenges of each level using several tools and a physics gun that could scale things bigger or smaller.
 
 Link to the game: https://thomasandfriends.itch.io/license-to-build
 
