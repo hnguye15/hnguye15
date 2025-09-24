@@ -6,11 +6,10 @@ I sometimes get inspirations from my classes to write some personal projects eit
 I also worked as a programmer for a small group of inspiring students who were looking to create video games! Our group was named Influx Games:
 * Director: Thomas Tam
 * Lead writer: Thomas Tam
-* Writer: Garrett MacLaughlin
 * Lead artist: Sunnyteddy22
 * Artist: Esther Lee, Brilliant Nguyen & Pippa Painter
 * Lead Programmer: Brilliant Nguyen (@YourFrostyFriend)
-* Programmer: Ky Nguyen (@hnguye15), Bohdan Savchuk, Daphne Dairo-Singerr, Isaac Lee, Isaac Shoebottom
+* Programmer: Ky Nguyen (@hnguye15), Bohdan Savchuk, Isaac Lee
 
 ## What we did as Influx Games
 
