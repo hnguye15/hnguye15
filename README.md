@@ -32,7 +32,7 @@ Our second time participating in GMTK Game Jame during Summer 2025! Just like la
 
 Link to the game: https://thomasandfriends.itch.io/dysthymia
 
-Link to the repository: tbd
+Link to the repository: https://github.com/Bohsav/GMTK2025
 <!--
 **hnguye15/hnguye15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
